@@ -40,3 +40,24 @@ Interface :: DrawShapes (vector)  // - drawing objects in vector,
 				 // it should be noted that SFML does not support interrupting the console with graphics and program continuation,
 			 	 // ie if you use this method, it is the logical conclusion of the program  
 ```
+Result from main.cpp
+=============
+__Result in console:__  
+Group (5,20), W*H = 136*630, Blue  
++Group (5,20), W*H = 50*385, Magenta  
+++Circle(5,20), Color:Red, R = 25  
+++Rectangle(10,350), Color:Yellow, W*H = 40*55  
++Rectangle(101,620), Color:Black, W*H = 40*30  
+Group (101,50), W*H = 539*648, Yellow  
++Rectangle(350,50), Color:Cyan, W*H = 45*75  
++Circle(500,558), Color:Green, R = 70  
++Rectangle(101,620), Color:Black, W*H = 40*30  
+Group (401,29), W*H = 539*648, Yellow  
++Rectangle(650,29), Color:Cyan, W*H = 45*75  
++Circle(800,537), Color:Green, R = 70  
++Rectangle(401,599), Color:Black, W*H = 40*30  
+
+__Graphic result__  
+![image](https://user-images.githubusercontent.com/76663676/167811871-120dd4b7-84df-4fea-a6c2-7294b5c9ede0.png)
+
+
